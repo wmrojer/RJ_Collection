@@ -1,0 +1,16 @@
+{
+	"name": "RJ_Collection",
+	"description": "My personal tweaks. Nothing to see here",
+	"changeNote": "Changed \"Glowing Essence\" to \"GlowingGoop\" in the Sickle loot table. Glowing Essence is not looted, it's crafted from GlowingGoop.\nTest of extending Sickle collision box to see if it fixed the inability to harvest some resource under water.\nLowered Random Force on Dead bodies in HarvestableComponent_v2 to see if they stop flying away.\nGave Taskmasker Tier 1 Craft Speed 1 so they are of some use.\nRemoved Single Player Boss Mob changes. Moved into it's own mod.\nAdded fixes from Exiled_Lands_Improved.\nMade Altars and Water Wells not require a huge exclusive area.",
+	"author": "Robjer",
+	"authorUrl": "",
+	"versionMajor": 0,
+	"versionMinor": 3,
+	"versionBuild": 3,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamVisibility": 2,
+	"folderName": "RJ_Collection",
+	"revisionNumber": 104551,
+	"snapshotId": 18892
+}
